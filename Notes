@@ -1,0 +1,7 @@
+Method Overloading:
+1.) Can we overload private methods? Yes.
+2.) Can we overload the static method? Yes.
+3.) Can we overload the main method? Yes.
+4.) Can we overload a method by changing its return type? No.
+======================================================================
+
